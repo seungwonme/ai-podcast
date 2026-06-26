@@ -1,15 +1,5 @@
 [
   {
-    "title": "AI 한 주 브리핑: AI 구독료 시대 개막, 시리에 제미나이 탑재, 7월 AI 사전검열 (6/7~6/13)",
-    "description": "6월 둘째 주(6/7~6/13) AI 소식을 비개발자 눈높이로 정리했습니다. 이번 주는 AI가 신기한 미래에서 매달 돈이 나가는 현실로 내려온 한 주였습니다.\n\n이번 화에서 다룬 8가지\n1. AI 구독료 시대 본격화: 새 모델 페이블 파이브와 무료 체험의 종말\n2. 통제 없는 AI가 태운 돈: 하루 만에 백만 원대 청구\n3. 일자리: \"AI가 뺏는다\" vs \"AI 회사는 사람을 뽑는다\"\n4. 아이폰 시리, 구글 제미나이로 갈아끼움\n5. 한국 직격: 7월 AI 사전검열, 티빙 해킹\n6. AI 돈잔치, 그런데 청구서는 우리에게 (전기료, 데이터센터)\n7. AI가 준 답, 믿어도 되나: 계정 탈취, 검색 변조\n8. 사람들이 AI처럼 말하기 시작했다",
-    "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep1/ep1.mp3",
-    "length": 6196838,
-    "duration": 387,
-    "pubDate": "Mon, 15 Jun 2026 00:59:08 +0900",
-    "guid": "https://github.com/seungwonme/ai-podcast/releases/download/ep1/ep1.mp3",
-    "episode": 1
-  },
-  {
     "title": "AI 한 주 브리핑: AI 구독료 집단소송, 엔지니어 직함 논쟁, 앤트로픽 한국 진출 (6/16~6/19)",
     "description": "AI에 내던 구독료를 돌려달라는 집단소송이 시작됐습니다. 돈을 더 내야 하나, 결과를 믿어도 되나, 이번 주는 이 두 질문이 같이 떠오른 한 주였습니다.\n\n이번 주는 크게 세 가지를 봅니다. 첫째, AI 구독료를 둘러싼 집단소송입니다. 둘째, AI가 내놓은 결과물의 결함률이 빠르게 늘고 있다는 신호입니다. 셋째, 팀 페리스 같은 창작자들이 책과 강의, 유튜브의 자리가 흔들린다고 말합니다. 나머지 다섯 가지는 아래 타임라인에서 골라 들으세요.\n\n이번 주 다룬 이야기\n[00:00] 여는 말\n[00:21] AI 구독료, 집단소송으로 번지다\n[00:57] 엔지니어라는 직함은 누구의 것인가\n[01:32] 앤트로픽, 한국 시장에 들어오다\n[01:59] AI가 국가 안보 자산이 되는 흐름\n[02:36] AI 결과물을 믿어도 될까 (결함률 급증)\n[03:11] 책과 강의, 유튜브가 흔들린다 (팀 페리스의 경고)\n[03:46] 오픈AI의 대규모 적자가 말하는 것\n[04:16] 결국 남는 건 안목 (taste)\n\n참고 링크\nAI 구독료 집단소송: https://www.reddit.com/r/ClaudeAI/comments/1u6kzsr/\n엔지니어 직함 논쟁: https://news.hada.io/topic?id=30492\n앤트로픽 한국 진출: https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea\nAI 지정학 관련 보도: https://www.threads.net/@choi.openai/post/DZt5MJoj5g_\nAI 결과물 결함률: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways\n팀 페리스 발언: https://news.hada.io/topic?id=30611\n오픈AI 적자: https://news.hada.io/topic?id=30616\n안목(taste) 논의: https://www.youtube.com/watch?v=ilnSZFynpt8\n\n매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.",
     "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep2/ep2.mp3",
@@ -18,5 +8,15 @@
     "pubDate": "Tue, 23 Jun 2026 15:11:30 +0900",
     "guid": "https://github.com/seungwonme/ai-podcast/releases/download/ep2/ep2.mp3",
     "episode": 2
+  },
+  {
+    "title": "AI 한 주 브리핑: AI 구독료 시대 개막, 시리에 제미나이 탑재, 7월 AI 사전검열 (6/7~6/13)",
+    "description": "새 AI 모델 페이블 5가 나온 같은 주에, 구독료 인상과 통제 없이 백만 원이 빠져나간 청구서가 같이 날아왔습니다.\n\n이번 주는 크게 세 가지를 봅니다. 첫째, 페이블 5 공개와 함께 현실이 된 AI 구독료 인상입니다. 둘째, 한도 설정이 없어 하루 만에 백만 원이 청구된 통제 사고입니다. 셋째, AI 때문에 잘렸다는 일자리 불안이 실제로 얼마나 사실인지입니다. 나머지 다섯 가지는 아래 타임라인에서 골라 들으세요.\n\n이번 주 다룬 이야기\n[00:00] 여는 말\n[00:28] 페이블 5 공개와 AI 구독료 인상\n[01:17] 통제 없는 AI가 부른 백만 원대 청구\n[02:01] 일자리, AI가 정말 줄이고 있나\n[02:50] 시리, 구글 모델로 갈아끼우다\n[03:20] 7월 한국 콘텐츠 사전검사 의무화\n[04:14] 천조 원 AI 돈잔치와 전기요금\n[05:01] AI 답을 믿어도 될까 (계정 탈취, 검색 변조)\n[05:34] 사람들이 AI처럼 말하기 시작했다\n\n매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.",
+    "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep1/ep1.mp3",
+    "length": 6196838,
+    "duration": 387,
+    "pubDate": "Mon, 15 Jun 2026 00:59:08 +0900",
+    "guid": "https://github.com/seungwonme/ai-podcast/releases/download/ep1/ep1.mp3",
+    "episode": 1
   }
 ]
