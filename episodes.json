@@ -18,5 +18,15 @@
     "pubDate": "Mon, 15 Jun 2026 00:59:08 +0900",
     "guid": "https://github.com/seungwonme/ai-podcast/releases/download/ep1/ep1.mp3",
     "episode": 1
+  },
+  {
+    "title": "AI 한 주 브리핑: 미국 정부의 AI 통제 시작, 비개발자 137배 확산, 빨라진다는 착각 (6/25~6/28)",
+    "description": "막혀 있던 가장 강력한 AI를, 이번 주 미국 정부가 직접 골라서 풀었습니다.\n\n이번 주는 크게 세 가지를 봅니다. 첫째, 앤트로픽의 최상위 모델 미토스를 미국 상무부가 신뢰 기관 100여 곳에만 허용한 통제의 시작입니다. 둘째, 오픈AI가 공개한 비개발자 사용량이 1년 새 137배로 늘며 AI가 모든 사무직 도구가 됐다는 신호입니다. 셋째, 숙련 개발자가 AI로 오히려 19퍼센트 느려졌다는, 체감과 실제의 괴리입니다. 나머지는 아래 타임라인에서 골라 들으세요.\n\n이번 주 다룬 이야기\n[00:00] 여는 말\n[00:20] 미국 정부가 강력한 AI 출시를 통제하기 시작하다\n[01:13] 빅테크 직원 90퍼센트가 AI에 일을 맡긴다 (비개발자 137배)\n[02:12] AI 쓰면 빨라진다는 착각, 실제론 19퍼센트 느려졌다\n[02:56] 알리바바의 Claude 무단 도용, 앤트로픽 상원 신고\n[03:33] 애플, 아이폰 빼고 전 제품 가격 인상 (메모리 쟁탈)\n[04:18] AI로 1인 여행사를 5일 만에 재설계하다\n[05:05] 가짜 면접 사기와 AI의 방어\n[05:57] AI가 다 짜도 회사는 못 베낀다 (일자리 논쟁의 양면)\n\n참고 링크\n미국 정부 AI 출시 통제: https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies\n비개발자 137배 확산: https://openai.com/index/how-agents-are-transforming-work\nAI로 19퍼센트 느려짐 연구: https://www.reddit.com/r/PromptEngineering/comments/1ugzxum/a_study_found_senior_devs_were_19_slower_with_ai/\n알리바바 무단 도용: https://www.threads.net/@jisang0914/post/DaAAwHHmtri\n애플 가격 인상: https://www.threads.net/@kudokun_/post/DaArnFfk7--\n1인 여행사 AI 재설계: https://www.youtube.com/watch?v=lLrKuF0YDyw\n가짜 면접 사기 분석: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/\n카피되지 않는 회사 전략: https://www.youtube.com/watch?v=bVSzAkuuymw\n\n매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.",
+    "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep3/ep3.mp3",
+    "length": 6930303,
+    "duration": 433,
+    "pubDate": "Mon, 29 Jun 2026 09:24:28 +0900",
+    "guid": "https://github.com/seungwonme/ai-podcast/releases/download/ep3/ep3.mp3",
+    "episode": 3
   }
 ]
