@@ -115,5 +115,50 @@ AI로 19퍼센트 느려짐 연구: https://www.reddit.com/r/PromptEngineering/c
 <itunes:explicit>false</itunes:explicit>
 <itunes:episode>1</itunes:episode>
 </item>
+<item>
+<title>AI 한 주 브리핑: 최강 AI 한시 개방과 구독료의 진실, 실험실과 월급의 괴리, 내가 산 영화가 삭제된다 (6/29~7/5)</title>
+<description><![CDATA[가장 강력한 AI를 며칠만 열어주자, 구독료의 진실이 드러났습니다.
+
+이번 주는 크게 세 가지를 봅니다. 첫째, 앤트로픽이 최강 모델을 7월 7일까지만 무료로 열자 열기가 커졌고, 월 200달러 구독이 실제 사용량 기준으로는 수십 배 값어치라는 인식이 퍼졌습니다. 둘째, 덴마크의 급여 대장 연구는 AI가 아낀 시간이 근무의 2.8퍼센트뿐이라며 일자리 대체론을 정면으로 반박했습니다. 셋째, 소니가 정가로 판 영화 551편을 9월에 고객 라이브러리에서 삭제합니다. 나머지는 아래 타임라인에서 골라 들으세요.
+
+이번 주 다룬 이야기
+[00:00] 여는 말
+[00:23] 최강 AI의 한시 개방과 구독료의 진실
+[01:47] AI가 일자리를 줄이나, 실험실과 월급 대장의 괴리
+[03:05] 코드 못 쓰던 사람들이 직접 만든다
+[04:23] AI 결과물을 어디까지 믿나 (책임과 취향)
+[05:19] 검색해도 클릭하지 않는 시대, 새 지표는 인용률
+[06:21] 내가 산 영화가 삭제된다 (소니와 디지털 소유권)
+[07:09] 감시를 감시하던 사람도 해킹당했다
+[08:04] 국내 소식, 테이밍랩부터 대만 영수증 복권까지
+[09:01] 회의가 안 풀리면 창문부터 열어라
+
+참고 링크
+최강 AI 재배포와 소넷 5: https://www.anthropic.com/news/claude-sonnet-5
+구독료 경제의 반전: https://www.threads.net/@steady__study.dev/post/DaW80IOEYkd
+AI 노동 임팩트 급여 연구: https://news.ycombinator.com/item?id=48777257
+메타의 AI 해고 후회: https://news.hada.io/topic?id=31099
+주니어 시장 붕괴와 K자형 개발자 시장: https://news.ycombinator.com/item?id=48788361
+1인 창업 폭증: https://news.hada.io/topic?id=31105
+코드 없이 지은 정부 소프트웨어: https://www.youtube.com/watch?v=pbrln2TVeh4
+자폐 아들 위한 소통 앱: https://news.ycombinator.com/item?id=48791048
+Godot AI 코드 기여 금지: https://news.hada.io/topic?id=31031
+Brown대 AI 부정행위: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html
+검색 클릭 소멸과 인용률: https://www.linkedin.com/feed/update/urn:li:activity:7478583523499536384/
+소니의 영화 삭제: https://news.hada.io/topic?id=31033
+Pegasus 조사위원 해킹: https://news.ycombinator.com/item?id=48779683
+유튜브 프롬프트 인젝션: https://news.hada.io/topic?id=31135
+한국 스타트업 성장 지표: https://www.linkedin.com/feed/update/urn:li:activity:7478593937914376193/
+국방 해커톤: https://www.linkedin.com/feed/update/urn:li:activity:7479413620305461248/
+회의실 CO2와 의사결정: https://news.hada.io/topic?id=31130
+
+매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.]]></description>
+<enclosure url="https://github.com/seungwonme/ai-podcast/releases/download/ep4/ep4.mp3" length="9719792" type="audio/mpeg"/>
+<guid isPermaLink="false">https://github.com/seungwonme/ai-podcast/releases/download/ep4/ep4.mp3</guid>
+<pubDate>Mon, 06 Jul 2026 09:30:55 +0900</pubDate>
+<itunes:duration>607</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>4</itunes:episode>
+</item>
 </channel>
 </rss>
