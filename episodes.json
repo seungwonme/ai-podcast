@@ -38,5 +38,15 @@
     "pubDate": "Mon, 06 Jul 2026 09:30:55 +0900",
     "guid": "https://github.com/seungwonme/ai-podcast/releases/download/ep4/ep4.mp3",
     "episode": 4
+  },
+  {
+    "title": "AI 한 주 브리핑: 무너지는 AI 사용료, 부활한 메시지 검열, AI 붐의 연료가 된 한국 메모리 (7/6~7/12)",
+    "description": "공짜로 풀렸던 최강 AI가 문을 닫자, 진짜 이야기는 값에서 시작됐습니다.\n\n이번 주는 크게 세 가지를 봅니다. 첫째, 앤트로픽이 최강 모델을 무료로 풀었다 거둬들이며 사용 한도까지 깎이자, 반대편에서는 샤오미가 AI 사용료를 최대 99퍼센트 내렸습니다. 둘째, 유럽의회가 사적인 메시지를 대량으로 훑어보는 검열 조치를 다시 통과시켰습니다. 셋째, SK하이닉스가 나스닥에 상장하며 AI 붐의 연료가 사실은 한국산임을 보여줬습니다. 나머지는 아래 타임라인에서 골라 들으세요.\n\n이번 주 다룬 이야기\n[00:00] 여는 말\n[00:25] 최강 AI 반짝 개방의 끝과 사용 한도 논란\n[01:34] 무너지는 AI 사용료, 샤오미 99퍼센트 인하\n[02:42] 하루에 쏟아진 새 AI 도구와 업무 비서\n[03:52] 1명이 팀 몫, 생산성과 커지는 검증 부담\n[05:09] 부활한 메시지 검열과 기기 추적\n[06:15] 구독 해지 다크패턴에 겨눈 규제\n[07:05] 복제당한 성우와 애플 대 오픈AI 소송\n[08:08] AI 붐의 연료가 된 한국 메모리, SK하이닉스 상장\n\n참고 링크\n최강 AI 개방 종료와 사용 한도 논란: https://www.reddit.com/r/ClaudeCode/comments/1uttt60/fable_5_is_leaving_and_weekly_limits_will_be_cut/\n샤오미 99퍼센트 인하와 토큰 가성비: https://www.linkedin.com/feed/update/urn:li:activity:7481740375766966272/\n지피티 5.6 정식 출시: https://news.hada.io/topic?id=31275\n챗지피티 업무용 분리: https://news.hada.io/topic?id=31281\n브로드컴 CEO의 생산성 발언: https://www.youtube.com/watch?v=fmnFbqoo-3w\nAI로 15일 만에 만든 우승 게임: https://www.reddit.com/r/ClaudeAI/comments/1urzr1q/i_just_made_25k_usd_with_my_capybara_game_built/\n유럽 메시지 대량 검열 부활: https://news.hada.io/topic?id=31284\n윈도우 기기 식별번호 추적: https://news.hada.io/topic?id=31244\n뉴욕시 구독 해지 규제: https://news.hada.io/topic?id=31317\nEU의 중독성 설계 제재 예비 판단: https://news.hada.io/topic?id=31332\n복제된 목소리와 성우: https://news.ycombinator.com/item?id=48875153\n애플 대 오픈AI 영업비밀 소송: https://news.hada.io/topic?id=31318\nSK하이닉스 나스닥 상장: https://www.linkedin.com/feed/update/urn:li:activity:7481855547311525888/\n\n매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.",
+    "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep5/ep5.mp3",
+    "length": 9473741,
+    "duration": 592,
+    "pubDate": "Mon, 13 Jul 2026 19:25:48 +0900",
+    "guid": "tag:github.com,2026:seungwonme/ai-podcast:episode:5",
+    "episode": 5
   }
 ]
