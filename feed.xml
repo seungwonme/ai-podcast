@@ -21,6 +21,19 @@
 <link>https://seungwonme.github.io/ai-podcast/</link>
 </image>
 <item>
+<title>AI 한 주 브리핑: AI가 사람을 채점하기 시작했다, 배민의 새 주인, 번호판 AI의 오인 (7/13~7/19)</title>
+<description>회사가 직원을 자를 때, 병원이 간호사를 평가할 때, 경찰이 차를 세울 때 AI가 판단석에 앉았습니다.
+
+이번 주는 크게 세 가지를 봅니다. 첫째, 메타 직원 26명이 키보드 입력 기록과 AI 사용량 대시보드로 해고 명단을 만들었다며 소송을 냈습니다. 둘째, 우버가 배달의민족 모회사를 20조 원대에 인수합니다. 셋째, 번호판 인식 AI의 오인으로 경찰이 기자에게 총을 겨눴습니다. 나머지는 아래 타임라인에서 골라 들으세요.</description>
+<content:encoded><![CDATA[<p>회사가 직원을 자를 때, 병원이 간호사를 평가할 때, 경찰이 차를 세울 때 AI가 판단석에 앉았습니다.</p><p>이번 주는 크게 세 가지를 봅니다. 첫째, 메타 직원 26명이 키보드 입력 기록과 AI 사용량 대시보드로 해고 명단을 만들었다며 소송을 냈습니다. 둘째, 우버가 배달의민족 모회사를 20조 원대에 인수합니다. 셋째, 번호판 인식 AI의 오인으로 경찰이 기자에게 총을 겨눴습니다. 나머지는 아래 타임라인에서 골라 들으세요.</p><p><strong>이번 주 다룬 이야기</strong></p><ul><li>00:00:00 여는 말</li><li>00:00:26 클로드 최상위 모델, 구독 포함되지만 한도는 절반</li><li>00:01:38 AI가 사람을 채점한다 (메타 소송, 간호사 증언)</li><li>00:03:27 배달의민족, 우버 산하로</li><li>00:04:29 내 데이터가 AI 학습 재료가 될 때</li><li>00:06:01 데이터센터 전기요금과 호주의 반대 선택</li><li>00:07:21 번호판 AI가 오인해 총구가 향했다</li><li>00:08:21 애플과 오픈AI, 이직자 40명에게 법적 서한</li><li>00:09:17 검색은 사라지는 게 아니라 옮겨간다</li><li>00:10:53 맺는 말</li></ul><p><strong>참고 링크</strong></p><ul><li><a href="https://news.hada.io/topic?id=31545">클로드 최상위 모델 구독 편입</a></li><li><a href="https://www.reddit.com/r/ClaudeAI/comments/1uzjcop/fable_staying_on_max/">구독 한도 논란 커뮤니티 반응</a></li><li><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1uxd7ji/26_meta_employees_accuse_mark_zuckerberg_of_using/">메타 직원 26명 소송</a></li><li><a href="https://news.hada.io/topic?id=31541">간호사 알고리즘 관리 증언</a></li><li><a href="https://news.hada.io/topic?id=31517">우버의 딜리버리 히어로 인수</a></li><li><a href="https://www.threads.net/@bizucafe/post/Da6q_Pzj1lO">인수를 둘러싼 국내 논의</a></li><li><a href="https://news.ycombinator.com/item?id=48897991">삼성 헬스 AI 학습 동의 논란</a></li><li><a href="https://news.hada.io/topic?id=31375">AI 코딩 도구의 파일 업로드</a></li><li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7483770020192374784/">챗봇을 통한 개인정보 유출 시연</a></li><li><a href="https://news.ycombinator.com/item?id=48913443">데이터센터와 전기요금 인상</a></li><li><a href="https://news.hada.io/topic?id=31405">아일랜드 데이터센터 전력 통계</a></li><li><a href="https://news.hada.io/topic?id=31470">호주의 매일 3시간 무료 전기</a></li><li><a href="https://news.ycombinator.com/item?id=48951536">번호판 인식 AI 오인 사건</a></li><li><a href="https://news.hada.io/topic?id=31537">애플의 이직자 법적 서한</a></li><li><a href="https://news.hada.io/topic?id=31571">AI 시대의 검색량 변화 조사</a></li><li><a href="https://www.threads.net/@and__yc/post/Da0aNtOGd62">네이버 검색 API 무료 접수 마감</a></li></ul><p>매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.</p>]]></content:encoded>
+<enclosure url="https://github.com/seungwonme/ai-podcast/releases/download/ep6/ep6.mp3" length="11091008" type="audio/mpeg"/>
+<guid isPermaLink="false">tag:github.com,2026:seungwonme/ai-podcast:episode:6</guid>
+<pubDate>Wed, 22 Jul 2026 12:16:29 +0900</pubDate>
+<itunes:duration>693</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>6</itunes:episode>
+</item>
+<item>
 <title>AI 한 주 브리핑: 무너지는 AI 사용료, 부활한 메시지 검열, AI 붐의 연료가 된 한국 메모리 (7/6~7/12)</title>
 <description>공짜로 풀렸던 최강 AI가 문을 닫자, 진짜 이야기는 값에서 시작됐습니다.
 
