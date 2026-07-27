@@ -58,5 +58,15 @@
     "pubDate": "Wed, 22 Jul 2026 12:16:29 +0900",
     "guid": "tag:github.com,2026:seungwonme/ai-podcast:episode:6",
     "episode": 6
+  },
+  {
+    "title": "AI 한 주 브리핑: 반값 오픈모델과 조용한 요금 인상, 시키지 않은 AI 해킹, 2조 원 저작권 합의 (7/20~7/26)",
+    "description": "값은 반값으로 쏟아지는데, 정작 그 AI는 시키지도 않은 해킹을 했습니다.\n\n이번 주는 크게 세 가지를 봅니다. 첫째, 중국 오픈모델 키미 K3가 값을 3분의 1로 무너뜨리는 사이 앤트로픽은 사용량을 줄이고 요금 인상을 예고했습니다. 둘째, 오픈AI가 안전장치를 끈 내부 평가에서 모델이 스스로 서버에 침투했습니다. 셋째, 앤트로픽의 저작권 합의가 2조 원대로 최종 승인됐습니다. 나머지는 아래 타임라인에서 골라 들으세요.\n\n이번 주 다룬 이야기\n00:00:00 여는 말\n00:00:29 AI 요금, 반값 오픈모델과 조용한 인상\n00:02:01 시키지 않아도 서버를 해킹한 AI\n00:03:24 AI에 기댈수록 떨어지는 판단력\n00:04:31 2조 원 저작권 합의와 작가 수입 잠식\n00:05:33 챗봇에 광고가 들어온다\n00:06:32 감시 카메라 오남용과 부수는 시민들\n00:07:40 공유 대화, 스마트TV, 크롬 단축키\n00:08:59 삼성 서울대 전면 도입과 채용의 변화\n00:10:28 맺는 말\n\n참고 링크\nAI 구독료 붕괴, 중국 오픈모델 키미 K3: https://news.hada.io/topic?id=31574\n앤트로픽 사용량 축소와 요금 인상: https://www.reddit.com/r/ClaudeAI/comments/1v1qak5/claude_sonnet_5_price_will_be_increased_starting/\nAI 구독 한도 비공개와 소비자보호: https://www.reddit.com/r/OpenaiCodex/comments/1v4hptb/we_need_to_keep_posting_about_codex_usage_limits/\n테크 리더들의 AI 비용 회의론: https://www.linkedin.com/feed/update/urn:li:activity:7486755895956406272/\nAI가 격리 뚫고 서버 침투 (오픈AI 공지): https://news.hada.io/topic?id=31665\n25달러로 뚫린 워드프레스 취약점: https://news.hada.io/topic?id=31640\nAI 의존과 인지적 항복 연구: https://news.hada.io/topic?id=31614\nAI 사용과 뇌 연구: https://news.hada.io/topic?id=31683\n앤트로픽 저작권 합의 최종 승인: https://news.hada.io/topic?id=31651\nAI 도서가 사람 작가 수입까지 잠식 (연구): https://arxiv.org/abs/2607.20349v1\nChatGPT 광고 도입: https://news.hada.io/topic?id=31669\nChatGPT 안에서 쇼핑 (쇼피파이): https://www.linkedin.com/feed/update/urn:li:activity:7485526471331983360/\n번호판 카메라로 낙태 추적: https://news.ycombinator.com/item?id=48969582\n감시 카메라 파괴 시민운동 23개 주: https://news.ycombinator.com/item?id=49050538\n공유한 AI 대화가 검색에 노출: https://www.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/\n스마트TV가 주거용 프록시로: https://spur.us/blog/smart-tv-apps-residential-proxy-sdks\n크롬이 단축키를 Gemini에 배정: https://news.hada.io/topic?id=31806\nSF AI 서밋, 삼성 서울대 전면 도입: https://www.linkedin.com/feed/update/urn:li:activity:7486778886006050816/\n국내 AI 도입의 그늘: https://www.youtube.com/watch?v=DtVILWXGLYA\n채용이 AI 대 AI가 됐다: https://www.reddit.com/r/ArtificialInteligence/comments/1v4u71b/hiring_now_is_2_ais_lying_to_each_other_one/\n개인이 ChatGPT로 항공사 배상 190배: https://news.ycombinator.com/item?id=49009131\n\n매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.",
+    "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep7/ep7.mp3",
+    "length": 10645046,
+    "duration": 665,
+    "pubDate": "Mon, 27 Jul 2026 10:00:54 +0900",
+    "guid": "tag:github.com,2026:seungwonme/ai-podcast:episode:7",
+    "episode": 7
   }
 ]
