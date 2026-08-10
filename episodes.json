@@ -78,5 +78,15 @@
     "pubDate": "Mon, 03 Aug 2026 09:49:22 +0900",
     "guid": "tag:github.com,2026:seungwonme/ai-podcast:episode:8",
     "episode": 8
+  },
+  {
+    "title": "AI 한 주 브리핑: 내 차에 뜬 광고, 우리 동네 데이터센터, 제프 딘의 퇴사 (8/3~8/9)",
+    "description": "AI가 데이터센터로 쓸어간 부품값이, 이번 주엔 게임기 가격표로 돌아왔습니다.\n\n이번 주는 크게 세 가지를 봅니다. 첫째, 비엠더블유가 이미 판 차의 화면에 스파이더맨 광고를 띄웠습니다. 둘째, 미국 내슈빌이 데이터센터를 막으려 토지 수용권을 발동했습니다. 셋째, 구글의 제프 딘이 27년 만에 떠난 날 알파벳 주가가 하루 4퍼센트 안팎 빠졌습니다. 나머지는 아래 타임라인에서 골라 들으세요.\n\n이번 주 다룬 이야기\n00:00:00 여는 말\n00:00:29 AI 메모리 수요가 밀어올린 게임기 값\n00:01:33 이미 판 차 화면에 뜬 광고 (비엠더블유)\n00:02:43 AI 포스터가 주 박람회 공모전 1위\n00:04:08 AI가 내 로그인 계정으로 예약을 시작한다\n00:05:24 데이터센터가 우리 동네로 (내슈빌과 멤피스)\n00:06:45 한 명의 퇴사와 수천 명의 노조, 일자리 양극단\n00:08:09 한국 개발자 설문, 코드 70퍼센트와 연봉 2배\n00:09:27 AI가 내 일상을 오해할 때, 그리고 감시 없는 선글라스\n00:11:00 맺는 말\n\n참고 링크\n유럽 엑스박스 최대 43퍼센트 인상, 원인은 AI 메모리 수요: https://news.ycombinator.com/item?id=49147209\n비엠더블유가 이미 판 차 화면에 광고 배포: https://news.hada.io/topic?id=32068\nAI 포스터가 오하이오 주 박람회 공모전 1위: https://news.ycombinator.com/item?id=49149188\n일본 외무성, 미 정부의 애니 밈 무단 사용에 우려 전달: https://news.ycombinator.com/item?id=49201065\n제미나이 스파크, 로그인된 계정으로 예약 시작: https://www.reddit.com/r/GoogleGeminiAI/comments/1vej0sr/gemini_spark_can_now_tap_into_google_chromes_auto/\n구글, 가드레일 우회는 못 고치는 성질이라며 제보 종결: https://www.reddit.com/r/PromptEngineering/comments/1vekow7/the_google_security_team_admitted_to_me_that_they/\n내슈빌 시의회, 데이터센터 막으려 토지 수용권 발동: https://news.hada.io/topic?id=32214\nxAI 멤피스 가스터빈 철거 시한과 각하 요구: https://news.ycombinator.com/item?id=49201342\n제프 딘, 구글 27년 만에 퇴사: https://www.threads.net/@jisang0914/post/Dbs0yt6GkLB\n캘리포니아대 정보기술직 2,100명 노조 가입 (미 최대): https://news.ycombinator.com/item?id=49200510\n일리노이 공대 재정 긴급사태, 종신교수 포함 해고: https://www.linkedin.com/feed/update/urn:li:activity:7491153227317510144/\nDev Korea 개발자 설문 (코드 70퍼센트, 연봉 2배): https://www.linkedin.com/feed/update/urn:li:activity:7489828636250808320/\n한국 직장의 AI 노트테이커 논쟁: https://www.linkedin.com/feed/update/urn:li:activity:7490191366367576064/\n안드로이드 도난 감지 잠금이 조깅을 오판: https://news.ycombinator.com/item?id=49200439\n덕덕고의 AI, 카메라, 배터리 없는 선글라스: https://news.hada.io/topic?id=32198\n\n매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.",
+    "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep9/ep9.mp3",
+    "length": 11247743,
+    "duration": 702,
+    "pubDate": "Mon, 10 Aug 2026 09:50:42 +0900",
+    "guid": "tag:github.com,2026:seungwonme/ai-podcast:episode:9",
+    "episode": 9
   }
 ]
