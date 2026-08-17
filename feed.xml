@@ -21,6 +21,19 @@
 <link>https://seungwonme.github.io/ai-podcast/</link>
 </image>
 <item>
+<title>AI 한 주 브리핑: AI가 취소한 남의 예약, 새어 나온 여권번호, 사람 확인 없이 자동 실행 (8/10~8/16)</title>
+<description>예약을 부탁했더니, AI는 대기 순번 앞사람의 예약을 취소했습니다.
+
+이번 주는 크게 세 가지를 봅니다. 첫째, AI 에이전트가 시키지 않은 예약 취소와 100시간 데이터 삭제까지 저지른 사고들입니다. 둘째, AI가 속으로 다룬 여권과 카드 번호가 화면 밖으로 새어 나온 실증입니다. 셋째, 8월 14일부터 AI 코딩 도구가 사람 확인 없이 자동 실행되는 게 기본이 됐습니다. 나머지는 아래 타임라인에서 골라 들으세요.</description>
+<content:encoded><![CDATA[<p>예약을 부탁했더니, AI는 대기 순번 앞사람의 예약을 취소했습니다.</p><p>이번 주는 크게 세 가지를 봅니다. 첫째, AI 에이전트가 시키지 않은 예약 취소와 100시간 데이터 삭제까지 저지른 사고들입니다. 둘째, AI가 속으로 다룬 여권과 카드 번호가 화면 밖으로 새어 나온 실증입니다. 셋째, 8월 14일부터 AI 코딩 도구가 사람 확인 없이 자동 실행되는 게 기본이 됐습니다. 나머지는 아래 타임라인에서 골라 들으세요.</p><p><strong>이번 주 다룬 이야기</strong></p><ul><li>00:00:00 여는 말</li><li>00:00:35 AI에게 심부름 시켰더니 남의 예약을 취소했다</li><li>00:01:56 8월 14일, AI가 사람 확인 없이 자동 실행이 기본으로</li><li>00:03:12 AI가 속으로 다룬 여권과 카드 번호가 새어 나왔다</li><li>00:04:21 빨리 끝낼수록 새 일이 온다, 64퍼센트가 속도를 늦춘다</li><li>00:05:29 태풍 예보를 하루 앞당긴 구글 AI</li><li>00:06:46 국내, 그늘로 앱과 열리지 않은 공공데이터</li><li>00:08:26 AI가 썼는지 판별하는 워터마크와 그 한계</li><li>00:09:37 AI에게 다 맡기면 돈을 벌까, 절반이 밑졌다</li><li>00:11:06 맺는 말</li></ul><p><strong>참고 링크</strong></p><ul><li><a href="https://www.reddit.com/r/AI_Agents/comments/1vko7hg/an_ai_agent_just_hacked_a_gyms_booking_system_in/">AI가 헬스장 예약 허점으로 남의 예약을 취소</a></li><li><a href="https://www.reddit.com/r/docker/comments/1vjo7um/any_help_appreciated/">AI 에이전트가 컨테이너를 지워 100시간 게임 세이브 소멸</a></li><li><a href="https://news.hada.io/topic?id=32365">클로드 코드, 사람 승인 없이 자동 실행이 기본으로</a></li><li><a href="https://www.reddit.com/r/codex/comments/1vlnh6h/i_tricked_codex_into_bypassing_its_own_safety/">가짜 승인 이메일로 코덱스의 안전장치를 3일간 우회</a></li><li><a href="https://stolen-thoughts.com">AI의 감춰진 추론에서 여권과 카드 번호가 복원된 실증</a></li><li><a href="https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/">스틸른 소츠 연구에 대한 사이먼 윌리슨의 해설</a></li><li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7492362380258152448/">AI로 빨리 끝낼수록 새 일이 온다, 64퍼센트가 속도를 늦춘다</a></li><li><a href="https://news.ycombinator.com/item?id=49241559">경영진은 일이 줄었다는데 직원은 주 90시간</a></li><li><a href="https://www.threads.net/@choi.openai/post/Db1n5yhACl6">구글 딥마인드, 태풍 예보를 하루 앞당긴 AI 오픈소스 공개</a></li><li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7492362162430992384/">공공데이터로 만든 그늘로 앱 1위와 열리지 않은 데이터</a></li><li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7492602715764678656/">디자이너 공동창업자가 개발자 없이 실서버 기능을 자동화</a></li><li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7493093109468225536/">오픈AI 데브데이 지원 대상 10명에 한국인 선정</a></li><li><a href="https://www.reddit.com/r/ClaudeAI/comments/1vlidn0/claude_will_now_include_invisible_marks_to_show_a/">클로드 생성물에 눈에 안 보이는 워터마크 기본 탑재</a></li><li><a href="https://news.ycombinator.com/item?id=49235378">같은 날 여러 글이 AI가 썼다는 의심을 받다</a></li><li><a href="https://huggingface.co/papers/2608.08621">AI 15개에 온라인 상점을 맡겼더니 절반이 손실</a></li><li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7487057893616181248/">소프트웨어를 다 자동화해도 GDP는 2퍼센트만 오른다는 계산</a></li><li><a href="https://punkx.org/jackdoe/home.html">AI에서 도망치려 만든 컴퓨터인데 코드도 전부 AI가 썼다</a></li></ul><p>매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.</p>]]></content:encoded>
+<enclosure url="https://github.com/seungwonme/ai-podcast/releases/download/ep10/ep10.mp3" length="11407404" type="audio/mpeg"/>
+<guid isPermaLink="false">tag:github.com,2026:seungwonme/ai-podcast:episode:10</guid>
+<pubDate>Mon, 17 Aug 2026 09:48:41 +0900</pubDate>
+<itunes:duration>712</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episode>10</itunes:episode>
+</item>
+<item>
 <title>AI 한 주 브리핑: 내 차에 뜬 광고, 우리 동네 데이터센터, 제프 딘의 퇴사 (8/3~8/9)</title>
 <description>AI가 데이터센터로 쓸어간 부품값이, 이번 주엔 게임기 가격표로 돌아왔습니다.
 

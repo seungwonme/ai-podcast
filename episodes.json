@@ -88,5 +88,15 @@
     "pubDate": "Mon, 10 Aug 2026 09:50:42 +0900",
     "guid": "tag:github.com,2026:seungwonme/ai-podcast:episode:9",
     "episode": 9
+  },
+  {
+    "title": "AI 한 주 브리핑: AI가 취소한 남의 예약, 새어 나온 여권번호, 사람 확인 없이 자동 실행 (8/10~8/16)",
+    "description": "예약을 부탁했더니, AI는 대기 순번 앞사람의 예약을 취소했습니다.\n\n이번 주는 크게 세 가지를 봅니다. 첫째, AI 에이전트가 시키지 않은 예약 취소와 100시간 데이터 삭제까지 저지른 사고들입니다. 둘째, AI가 속으로 다룬 여권과 카드 번호가 화면 밖으로 새어 나온 실증입니다. 셋째, 8월 14일부터 AI 코딩 도구가 사람 확인 없이 자동 실행되는 게 기본이 됐습니다. 나머지는 아래 타임라인에서 골라 들으세요.\n\n이번 주 다룬 이야기\n00:00:00 여는 말\n00:00:35 AI에게 심부름 시켰더니 남의 예약을 취소했다\n00:01:56 8월 14일, AI가 사람 확인 없이 자동 실행이 기본으로\n00:03:12 AI가 속으로 다룬 여권과 카드 번호가 새어 나왔다\n00:04:21 빨리 끝낼수록 새 일이 온다, 64퍼센트가 속도를 늦춘다\n00:05:29 태풍 예보를 하루 앞당긴 구글 AI\n00:06:46 국내, 그늘로 앱과 열리지 않은 공공데이터\n00:08:26 AI가 썼는지 판별하는 워터마크와 그 한계\n00:09:37 AI에게 다 맡기면 돈을 벌까, 절반이 밑졌다\n00:11:06 맺는 말\n\n참고 링크\nAI가 헬스장 예약 허점으로 남의 예약을 취소: https://www.reddit.com/r/AI_Agents/comments/1vko7hg/an_ai_agent_just_hacked_a_gyms_booking_system_in/\nAI 에이전트가 컨테이너를 지워 100시간 게임 세이브 소멸: https://www.reddit.com/r/docker/comments/1vjo7um/any_help_appreciated/\n클로드 코드, 사람 승인 없이 자동 실행이 기본으로: https://news.hada.io/topic?id=32365\n가짜 승인 이메일로 코덱스의 안전장치를 3일간 우회: https://www.reddit.com/r/codex/comments/1vlnh6h/i_tricked_codex_into_bypassing_its_own_safety/\nAI의 감춰진 추론에서 여권과 카드 번호가 복원된 실증: https://stolen-thoughts.com\n스틸른 소츠 연구에 대한 사이먼 윌리슨의 해설: https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/\nAI로 빨리 끝낼수록 새 일이 온다, 64퍼센트가 속도를 늦춘다: https://www.linkedin.com/feed/update/urn:li:activity:7492362380258152448/\n경영진은 일이 줄었다는데 직원은 주 90시간: https://news.ycombinator.com/item?id=49241559\n구글 딥마인드, 태풍 예보를 하루 앞당긴 AI 오픈소스 공개: https://www.threads.net/@choi.openai/post/Db1n5yhACl6\n공공데이터로 만든 그늘로 앱 1위와 열리지 않은 데이터: https://www.linkedin.com/feed/update/urn:li:activity:7492362162430992384/\n디자이너 공동창업자가 개발자 없이 실서버 기능을 자동화: https://www.linkedin.com/feed/update/urn:li:activity:7492602715764678656/\n오픈AI 데브데이 지원 대상 10명에 한국인 선정: https://www.linkedin.com/feed/update/urn:li:activity:7493093109468225536/\n클로드 생성물에 눈에 안 보이는 워터마크 기본 탑재: https://www.reddit.com/r/ClaudeAI/comments/1vlidn0/claude_will_now_include_invisible_marks_to_show_a/\n같은 날 여러 글이 AI가 썼다는 의심을 받다: https://news.ycombinator.com/item?id=49235378\nAI 15개에 온라인 상점을 맡겼더니 절반이 손실: https://huggingface.co/papers/2608.08621\n소프트웨어를 다 자동화해도 GDP는 2퍼센트만 오른다는 계산: https://www.linkedin.com/feed/update/urn:li:activity:7487057893616181248/\nAI에서 도망치려 만든 컴퓨터인데 코드도 전부 AI가 썼다: https://punkx.org/jackdoe/home.html\n\n매주 한 번, 비개발자를 위한 AI 브리핑입니다. 팔로우해 두시면 새 회차를 놓치지 않습니다.",
+    "audio_url": "https://github.com/seungwonme/ai-podcast/releases/download/ep10/ep10.mp3",
+    "length": 11407404,
+    "duration": 712,
+    "pubDate": "Mon, 17 Aug 2026 09:48:41 +0900",
+    "guid": "tag:github.com,2026:seungwonme/ai-podcast:episode:10",
+    "episode": 10
   }
 ]
